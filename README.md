@@ -1,6 +1,6 @@
 # React + Vite
 
 ## System requirements
-## nodejs
-## npm
-## vs code
+1. nodejs
+2. npm
+3.vs code
